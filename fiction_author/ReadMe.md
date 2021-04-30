@@ -14,7 +14,7 @@
       - DecisionTreeClassifier
       - Naive Bayes
     - 중간에 Turncated SVD를 이용하여 선형 차원 축소를 진행. (총 2회)
-- XGboost를 이용하여 최종 
+- XGboost를 이용하여 최종 inference
 
 # 사용된 XGBoost Feature
 
