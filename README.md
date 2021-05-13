@@ -2,7 +2,7 @@
 
 ## Competition 참가
 
-| week | Date | Competition | Directory |
+| no. | Date | Competition | Directory |
 | :--: | :--: | :---------: | :-------: |
 | 8 | 2021-04-30 ~ 2021-05-24 | [신용카드 사용자 연체 예측 AI 경진대회](https://dacon.io/competitions/official/235713/overview/description#desc-info) | [[8]_신용카드_연체_예측]([8]_신용카드_연체_예측/) |
 
@@ -18,7 +18,7 @@
 
 매주 Fri 20:00
 
-| week | Date | Competition | Directory |
+| no. | Date | Competition | Directory |
 | :--: | :--: | :---------: | :-------: |
 | 1 | 2021-03-03 ~ 2021-03-11 | [병원 개/폐업 예측](https://dacon.io/competitions/official/9565/overview/description/) | [[1]_병원_개폐업_예측]([1]_병원_개폐업_예측/) |
 | 2 | 2021-03-12 ~ 2021-03-18 | [상점 총 매출 예측](https://dacon.io/competitions/official/136/overview/description/) | [[2]_상점_총매출_예측]([2]_상점_총매출_예측/) |
