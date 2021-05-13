@@ -1,6 +1,6 @@
 # Kaggle-Challengers-2nd ; 최영민
 
-## Competitions
+## Competition 참가
 
 | week | Date | Competition | Directory |
 | :--: | :--: | :---------: | :-------: |
