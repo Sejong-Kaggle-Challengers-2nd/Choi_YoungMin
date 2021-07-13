@@ -2,59 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a4c3733-598e-46f7-859b-a597d5455bdc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Apartment_auction/.ipynb_checkpoints/Apartment_auction-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apartment_auction/Apartment_auction.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apartment_auction/data/Auction_master_test.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apartment_auction/data/Auction_master_train.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apartment_auction/data/Auction_regist.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apartment_auction/data/Auction_rent.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apartment_auction/data/Auction_result.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apartment_auction/data/Auction_submission.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apartment_auction/result.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV_train_competition/.ipynb_checkpoints/CV_train_competition-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV_train_competition/CV_train_competition.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hospital_OC_classification/.ipynb_checkpoints/Hospital_OC_classification-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hospital_OC_classification/Hospital_OC_classification.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hospital_OC_classification/submission_sample.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hospital_OC_classification/submit_dtc.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hospital_OC_classification/submit_knn.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hospital_OC_classification/submit_knn.qda" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hospital_OC_classification/submit_lda.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hospital_OC_classification/test.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hospital_OC_classification/train.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Total_sales_prediction/.ipynb_checkpoints/Total_sales_prediction-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Total_sales_prediction/1st_Yongjib_분석.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Total_sales_prediction/Total_sales_prediction.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Total_sales_prediction/result.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Total_sales_prediction/submission.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Total_sales_prediction/test.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Total_sales_prediction/train.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/credit_card_visualization/.ipynb_checkpoints/7nd_issac_study-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/credit_card_visualization/.ipynb_checkpoints/credit_card_visualization-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/credit_card_visualization/7nd_issac_study.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/credit_card_visualization/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/credit_card_visualization/credit_card_visualization.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/creditcard_overdue/.ipynb_checkpoints/baseline_model-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/creditcard_overdue/.ipynb_checkpoints/preprocess_RF-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/creditcard_overdue/baseline_model/baseline_model.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/creditcard_overdue/performance_test/Random_Forest.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/creditcard_overdue/preprocess/preprocess.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/creditcard_overdue/result_file/baseline_result/submit.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/creditcard_overdue/result_file/baseline_result/submit_boost.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/creditcard_overdue/result_file/baseline_result/submit_forest.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/creditcard_overdue/result_file/baseline_result/submit_voting.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/creditcard_overdue/result_file/performance_result/result_bin10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/creditcard_overdue/result_file/performance_result/result_bin5.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/creditcard_overdue/result_file/performance_result/result_bin7.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/creditcard_overdue/result_file/preprocess_results/test_income_bin10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/creditcard_overdue/result_file/preprocess_results/test_income_bin5.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/creditcard_overdue/result_file/preprocess_results/test_income_bin7.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/creditcard_overdue/result_file/preprocess_results/train_income_bin10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/creditcard_overdue/result_file/preprocess_results/train_income_bin5.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/creditcard_overdue/result_file/preprocess_results/train_income_bin7.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiction_author/.ipynb_checkpoints/fiction_author-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiction_author/3rd_code.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiction_author/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +21,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -86,5 +35,15 @@
       <updated>1620907705868</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="277" y="97" key="SettingsEditor" timestamp="1624809021396">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="277" y="97" key="SettingsEditor/0.40.1536.824@0.40.1536.824" timestamp="1624809021396" />
+    <state x="431" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1624808728677">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="431" y="185" width="672" height="678" key="search.everywhere.popup/0.40.1536.824@0.40.1536.824" timestamp="1624808728677" />
   </component>
 </project>
