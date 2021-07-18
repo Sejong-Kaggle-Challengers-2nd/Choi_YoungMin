@@ -5,12 +5,13 @@
 | no. | Date | Competition | Directory |
 | :--: | :--: | :---------: | :-------: |
 | 8 | 2021-04-30 ~ 2021-05-24 | [신용카드 사용자 연체 예측 AI 경진대회](https://dacon.io/competitions/official/235713/overview/description#desc-info) | [[8]_신용카드_연체_예측]([8]_신용카드_연체_예측/) |
+| 9 | 2021-07-09 ~ 2021-07-30 | [주차수요 예측 AI 경진대회](https://dacon.io/competitions/official/235745/overview/description) | [[9]_주차수요_예측]([9]_주차수요_예측/) |
 
 ## 진행방식
 
 1. 팀별 세션 : 전체 회의 전 1주간의 진행 방향 결정
 > - 진행 내용 수시로 Slack을 통해 공유.
-2. 매주 금요일 20:00 Kaggler 전체 회의 : 팀별 1주간 진행 내용 공유
+2. 매주 화요일 21:00 Kaggler 전체 회의 : 팀별 1주간 진행 내용 공유
 
 ****
 
